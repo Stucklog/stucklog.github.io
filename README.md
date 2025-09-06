@@ -11,7 +11,7 @@ Thank you for using our Bible Reader app. We are committed to protecting your pr
 - We do **not** collect personal identifying information such as your name, email address, phone number, or physical address
 - We do **not** track your location or use GPS data
 - We do **not** access your contacts, photos, or other personal files
-- We do **not** create user profiles for advertising purposes
+- We do **not** create user profiles or tracking data
 
 ### 1.2 Data We Collect for App Functionality
 
@@ -75,12 +75,7 @@ We also use Google Firebase for non-AI features:
 - **App analytics**: Anonymous usage statistics
 - **Crash reporting**: Anonymous error reports
 
-### 3.4 Advertising
-- **Non-personalized ads only**: All advertisements are generic and not based on your behavior
-- **No ad tracking**: We do not track you across apps or websites for advertising
-- **No ad personalization**: Your data is never used to create advertising profiles
-
-### 3.5 No Data Sales
+### 3.4 No Data Sales
 We do **not** sell, rent, or trade your personal information to third parties.
 
 ## 4. Data Storage and Security
@@ -102,11 +97,7 @@ We do **not** sell, rent, or trade your personal information to third parties.
 - **Feedback**: Submitted feedback is anonymous and cannot be deleted individually
 - **AI features**: You can choose not to use AI-powered features
 
-### 5.2 Advertising Choices
-- **Non-personalized ads**: All ads are already non-personalized by default
-- **No opt-out needed**: Since we don't track you for ads, there's nothing to opt out of
-
-### 5.3 Data Portability
+### 5.2 Data Portability
 - Your annotations and notes are stored locally and can be backed up through your device
 - Contact us if you need assistance exporting your data
 
@@ -136,7 +127,6 @@ If you have questions about this Privacy Policy or your data:
 
 ✅ **No personal information collection**  
 ✅ **No location tracking**  
-✅ **No personalized ads**  
 ✅ **No cross-app tracking**  
 ✅ **Local data storage for your content**  
 ✅ **Anonymous feedback only**  
