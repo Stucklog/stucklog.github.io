@@ -1,6 +1,8 @@
+---
 layout: page
 title: "test-title"
-permalink: /test-path
+permalink: /test-path/
+---
 
 # test page
-test page
+This is a test page.
