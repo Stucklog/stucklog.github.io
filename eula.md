@@ -1,3 +1,9 @@
+---
+layout: page
+title: "EULA - The Smart Bible for Good"
+permalink: /eula/
+---
+
 # End User License Agreement (EULA)
 **The Smart Bible for Good**  
 **Last Updated: November 23, 2025**
